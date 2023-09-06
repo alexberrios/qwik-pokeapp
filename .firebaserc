@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "pokemon-qwik",
+    "client": "pokemon-qwik"
+  },
+  "targets": {},
+  "etags": {}
+}

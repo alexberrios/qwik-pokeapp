@@ -4,6 +4,8 @@
 /lib-types
 /server
 
+.env
+
 # Development
 node_modules
 *.local
@@ -39,3 +41,7 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+# Firebase
+functions/server
+functions/node_modules
