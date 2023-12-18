@@ -6,7 +6,7 @@ export const PokemonProvider = component$(() => {
 
     const pokemonGame = useStore<PokemonGamerState>({
         pokemonId: 1,
-        isVisible: false,
+        isVisible: true,
         showBackImage: false
       });
     
